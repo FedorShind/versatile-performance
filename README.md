@@ -330,3 +330,7 @@ Always welcome! -- feel free to make a PR with your own version of a skill!
 
 ## License
 [MIT](https://github.com/FedorShind/versatile-performance/blob/main/LICENSE)
+
+---
+
+If you like this Skill, you might also enjoy [clear-writing](https://github.com/FedorShind/clear-writing) - a Skill that fixes sloppy AI writing.
